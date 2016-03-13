@@ -9,3 +9,4 @@ Todo:
 - Consider changing template engine from mustache to handlebars
 - Validation
 - Tests
+- add definition files for IDE autocomplete
